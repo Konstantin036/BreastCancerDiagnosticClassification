@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ce2da1-49af-4efb-aa9e-12d5b8830d24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/BreastCancerDiagnosticClassification.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/Breast_Cancer_Classification_Final_Report.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Breast_Cancer_Classification_Final_Report.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Breast_Cancer_Classification_Final_Report.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +43,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/konstantin/Desktop/BreastCancerDiagnosticClassification",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,7 +68,10 @@
       <option name="presentableId" value="Default" />
       <updated>1758383397905</updated>
       <workItem from="1758383398965" duration="9097000" />
-      <workItem from="1758624407470" duration="10482000" />
+      <workItem from="1758624407470" duration="12030000" />
+      <workItem from="1758710119767" duration="3505000" />
+      <workItem from="1758715399919" duration="2340000" />
+      <workItem from="1758723286790" duration="2025000" />
     </task>
     <servers />
   </component>
