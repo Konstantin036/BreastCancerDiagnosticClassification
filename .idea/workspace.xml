@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6ce2da1-49af-4efb-aa9e-12d5b8830d24" name="Changes" comment="docs: Refine final report based on feedback&#10;&#10;- Clarified the distinction between Standardization and Normalization.&#10;- Improved the narrative around model selection and failure analysis.&#10;- Added a demonstration of the safety net mechanism to prove generalization.&#10;- Finalized the hybrid system with surgically precise rules.">
+    <list default="true" id="e6ce2da1-49af-4efb-aa9e-12d5b8830d24" name="Changes" comment="docs: Finalize report and enhance visualizations&#10;&#10;- Replaced the single confusion matrix with a dual-panel view showing both absolute numbers and recall-normalized percentages.&#10;- Refactored plotting code to resolve seaborn FutureWarning.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/Breast_Cancer_Classification_Final_Report.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Breast_Cancer_Classification_Final_Report.ipynb" afterDir="false" />
     </list>
@@ -83,7 +83,7 @@
       <workItem from="1758624407470" duration="12030000" />
       <workItem from="1758710119767" duration="3505000" />
       <workItem from="1758715399919" duration="2340000" />
-      <workItem from="1758723286790" duration="8875000" />
+      <workItem from="1758723286790" duration="10012000" />
     </task>
     <task id="LOCAL-00001" summary="docs: Refine final report based on feedback&#10;&#10;- Clarified the distinction between Standardization and Normalization.&#10;- Improved the narrative around model selection and failure analysis.&#10;- Added a demonstration of the safety net mechanism to prove generalization.&#10;- Finalized the hybrid system with surgically precise rules.">
       <option name="closed" value="true" />
@@ -93,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758725371636</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="docs: Finalize report and enhance visualizations&#10;&#10;- Replaced the single confusion matrix with a dual-panel view showing both absolute numbers and recall-normalized percentages.&#10;- Refactored plotting code to resolve seaborn FutureWarning.">
+      <option name="closed" value="true" />
+      <created>1758732213229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758732213229</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +109,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="docs: Refine final report based on feedback&#10;&#10;- Clarified the distinction between Standardization and Normalization.&#10;- Improved the narrative around model selection and failure analysis.&#10;- Added a demonstration of the safety net mechanism to prove generalization.&#10;- Finalized the hybrid system with surgically precise rules." />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: Refine final report based on feedback&#10;&#10;- Clarified the distinction between Standardization and Normalization.&#10;- Improved the narrative around model selection and failure analysis.&#10;- Added a demonstration of the safety net mechanism to prove generalization.&#10;- Finalized the hybrid system with surgically precise rules." />
+    <MESSAGE value="docs: Finalize report and enhance visualizations&#10;&#10;- Replaced the single confusion matrix with a dual-panel view showing both absolute numbers and recall-normalized percentages.&#10;- Refactored plotting code to resolve seaborn FutureWarning." />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: Finalize report and enhance visualizations&#10;&#10;- Replaced the single confusion matrix with a dual-panel view showing both absolute numbers and recall-normalized percentages.&#10;- Refactored plotting code to resolve seaborn FutureWarning." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BreastCancerDiagnosticClassification$test.coverage" NAME="test Coverage Results" MODIFIED="1758628021822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
